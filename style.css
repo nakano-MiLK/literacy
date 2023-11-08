@@ -2,6 +2,11 @@ em { color: green; }
 
 th {
   color: white;
-  background: orange;
+  background-color: orange;
 }
 
+th, td {
+  border: 1px solid black;
+}
+
+table { border-collapse: collapse;}
